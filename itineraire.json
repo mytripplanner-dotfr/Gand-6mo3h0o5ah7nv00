@@ -1,0 +1,132 @@
+{
+  "pays": "Belgique",
+  "drapeau": "🇧🇪",
+  "symbole": "🦁",
+  "titre": "Gand, la Perle des Flandres: Un Voyage Historique et Gourmand",
+  "budget_total": "520€",
+  "duree": "2 jours",
+  "temps_vol": "2h30 depuis Paris (en train)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premières Découvertes",
+      "legende": "Après un agréable trajet en train depuis Paris, plongez doucement dans l'atmosphère médiévale de Gand. Laissez-vous charmer par les canaux et l'architecture historique en vous promenant tranquillement, une introduction parfaite à cette ville flamande. Le centre historique, compact et piéton, invite à la flânerie et à la découverte en douceur.",
+      "lieu": "Gand",
+      "activites": [
+        "🛬 <strong>Arrivée à Gand</strong>: Prenez le train depuis Paris Gare du Nord jusqu'à Bruxelles-Midi, puis une correspondance rapide pour Gand-Saint-Pierre. Le trajet est direct et confortable, offrant de jolis paysages. ",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Déposez vos bagages dans votre hôtel 3 étoiles, idéalement situé au cœur de la ville pour être au plus près des attractions principales. Cela optimise vos déplacements pour le reste du séjour.",
+        "🚶‍♂️ <strong>Balade le long des Graslei et Korenlei</strong>: Admirez les façades des anciennes maisons de corporations le long des quais, un panorama emblématique de Gand. C'est l'endroit idéal pour s'imprégner de l'ambiance unique de la ville et prendre de superbes photos."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Astuce transport",
+          "texte": "Le train est le moyen le plus efficace pour rejoindre Gand depuis Paris. Réservez vos billets Thalys/Eurostar à l'avance pour bénéficier de meilleurs tarifs."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Dîner local",
+          "texte": "Goûtez aux spécialités flamandes comme les \"waterzooi\" (un ragoût crémeux) ou les \"stoemp\" (purée de légumes) dans un restaurant traditionnel du centre-ville."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Immersion Historique et Culturelle",
+      "legende": "Explorez les trésors médiévaux de Gand, des châteaux imposants aux chefs-d'œuvre artistiques. Laissez-vous transporter par l'histoire de cette cité flamande, entre visites culturelles et pauses gourmandes. Cette journée vous plongera au cœur du patrimoine gantois, révélant la richesse de son passé.",
+      "lieu": "Gand",
+      "activites": [
+        "🏰 <strong>Visite du Château des Comtes (Gravensteen)</strong>: Explorez cette forteresse médiévale unique en Flandre, avec ses douves et ses tours, offrant une vue imprenable sur la ville. Plongez dans l'histoire des comtes de Flandre et découvrez ses secrets bien gardés.",
+        "🎨 <strong>Découverte de la Cathédrale Saint-Bavon et de l'Agneau Mystique</strong>: Admirez le retable mondialement connu des frères Van Eyck, une œuvre d'art majeure de la Renaissance flamande. La cathédrale elle-même est un joyau architectural abritant d'autres trésors.",
+        "🔔 <strong>Montée au Beffroi de Gand</strong>: Gravissez les marches de ce symbole de l'indépendance de la ville pour une vue panoramique spectaculaire sur les toits de Gand. C'est une perspective unique sur la cité et ses environs."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Conseil de marche",
+          "texte": "Gand se découvre idéalement à pied. Prévoyez de bonnes chaussures pour profiter pleinement des pavés et des ruelles historiques sans fatigue."
+        },
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs gourmands",
+          "texte": "Ne partez pas sans goûter aux \"cuberdons\", ces bonbons coniques violets typiques de Gand, ou aux délicieuses gaufres belges, parfaites pour une pause sucrée."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "220€/pers (Train aller-retour Paris-Gand via Bruxelles, réservation anticipée)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "15€/pers (Transports en commun locaux pour 2 jours, principalement à pied)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "130€/pers (2 petits-déjeuners, 2 déjeuners, 2 dîners, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "120€/pers (1 nuit en hôtel 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "35€/pers (Entrées Château des Comtes, Cathédrale Saint-Bavon, Beffroi)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'avril à juin et de septembre à octobre.",
+      "symbole": "🌷"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Gand compte environ 260 000 habitants, c'est la troisième plus grande ville de Belgique.",
+      "symbole": "🧑‍🤝‍🧑"
+    },
+    {
+      "titre": "La Belgique est un pays multilingue, mais le néerlandais est la langue officielle à Gand. Le français et l'anglais sont couramment parlés dans les zones touristiques.",
+      "symbole": "🇧🇪"
+    },
+    {
+      "titre": "Fait insolite: Gand est réputée pour être une ville très végétarienne et végétalienne, avec un \"Jeudi Veggie\" officiel où de nombreux restaurants proposent des options sans viande.",
+      "symbole": "🥦"
+    },
+    {
+      "titre": "La ville est également célèbre pour ses graffitis légaux et son \"Ruelles des Graffitis\" (Werregarenstraatje), une galerie d'art urbain à ciel ouvert.",
+      "symbole": "🎨"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Site officiel du tourisme à Gand",
+      "titre": "Visit Gent",
+      "url": "https://visit.gent.be/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Informations et réservations de trains",
+      "titre": "SNCB Europe (pour Thalys/Eurostar)",
+      "url": "https://www.b-europe.com/FR",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo pour la Belgique",
+      "titre": "Météo Belgique",
+      "url": "https://www.meteo.be/fr/belgique",
+      "symbole": "🌤️"
+    }
+  ]
+}
